@@ -1,0 +1,83 @@
+input{
+	border-radius: 10px;
+	height: 30px;
+	width:250px;
+	color:white; 
+	padding: 5px;
+	margin-top: 10px;
+}
+body{
+	
+	font-family: courier;
+	color:white;
+	background-image: url("pattern.png");
+	
+
+}
+td{
+	padding-left: 10px;
+}
+table{
+margin-top: 25px;
+}
+a{
+	
+	color:white;
+}
+#submit{
+	color: white;
+	width: 50px;
+	background-color: #585858;
+}
+.login{
+	display: block;
+	float: right;
+	opacity: 0.5;
+	margin-right: 2%;
+	margin-top: 4%;
+	border-radius: 10px;
+	border: none; 
+	background-color:#010101;
+	height: 400px;
+	width: 400px;
+	
+	
+}
+.header{
+	background-color: #010101;
+	display: block;
+
+}
+ul{
+	list-style-type: none;
+}
+.footer{
+	font-size: 12px;
+	margin-left: 0;
+	border-top: 1px solid white;
+	width: 100%;
+	position: absolute;
+	margin-top: 35%;
+}
+.about_drive{
+	float: left;
+	display: block;
+	height: 100px;
+	width: 20%;
+}
+.Plans_pricing{
+	float: left;
+	margin-left: 12px;
+	display: block;
+	height: 100px;
+	width: 20%;
+}
+/*.downloads{
+	float: left;
+	margin-left: 12px;
+	display: block;
+	height: 100px;
+	width: 50px;
+}
+
+*/
